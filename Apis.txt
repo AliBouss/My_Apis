@@ -1,0 +1,4 @@
+-GitHub => https://docs.github.com/en
+-Strip => https://stripe.com/docs/api
+-Pinterest => https://developers.pinterest.com/docs/api/pins/?
+-Meetup => https://www.meetup.com/fr-FR/meetup_api/
